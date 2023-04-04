@@ -1,0 +1,14 @@
+name: ML
+channels:
+	- conda-forge
+
+pandas
+numpy
+matplotlib
+xgboost
+prophet
+scikit-learn
+tensorflow
+seaborn
+
+conda create -n ML ipykernel numpy pandas matplotlib xgboost prophet scikit-learn tensorflow seaborn
