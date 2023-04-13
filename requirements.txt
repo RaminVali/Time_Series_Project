@@ -12,3 +12,7 @@ tensorflow
 seaborn
 
 conda create -n ML ipykernel numpy pandas matplotlib xgboost prophet scikit-learn tensorflow seaborn
+
+conda create -n ML python 3.11 ipykernel numpy pandas matplotlib xgboost prophet tensorflow plotly fredapi scikit-learn streamlit
+
+conda create -n timeseries_proj pandas matplotlib tensorflow plotly fredapi streamlit
