@@ -2,11 +2,11 @@
 import requests
 import json
 
-class c_bls_data_api:
+class BLS_api:
     
     """
-        File name:      c_bls_data_api.py
-        Class name:     c_bls_data_api
+        File name:      BLS_api.py
+        Class name:     BLS_api
         Description:    Call BLS Data API with a query and handle the results.
         Reference:      https://www.bls.gov/developers/api_python.htm
     """
