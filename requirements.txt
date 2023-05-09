@@ -9,4 +9,4 @@ arch
 prophet
 requests
 streamlit
-sklearn
+scikit-learn
