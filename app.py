@@ -29,6 +29,7 @@ from arch import arch_model
 # Prophet
 from prophet import Prophet
 from prophet.plot import plot_plotly, plot_components_plotly
+import ptitprince as pt
 
  
 """
@@ -228,7 +229,6 @@ st.plotly_chart(fig)
          Also note how the highest CPI rate increases belongs to 2022."""
 
 # Rain Cloud Chart
-import ptitprince as pt
 fig, ax = plt.subplots(figsize=(10, 15))
 sns.set_style("darkgrid")
 pt.RainCloud(x = plot_df.index.year, y = plot_df['pct-change'], data = plot_df, palette = "Set2", bw = .09,

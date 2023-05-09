@@ -10,3 +10,4 @@ prophet
 requests
 streamlit
 scikit-learn
+ptitprince
