@@ -9,3 +9,4 @@ arch
 prophet
 requests
 streamlit
+sklearn
