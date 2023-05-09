@@ -7,5 +7,4 @@ datetime
 statsmodels
 arch
 prophet
-json
 requests
