@@ -13,6 +13,8 @@ We checked stationarity and used first order differencing and subtraction of the
 The downloaded jason file is store in the \data directory. 
 Once your own app is ready you can push the repo to heroku directly, or to your own github and connect your repo to heroku. Then you can build the app and run it. The notebook is for the EDA and testing and you need app.py for the on-line deployment.
 
+![Deployment](Heroku.png)
+
 ## Sources:
 https://github.com/liannewriting/YouTube-videos-public/blob/main/arima-model-time-series-prediction-python/time-series-arima.ipynb
 
