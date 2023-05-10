@@ -41,6 +41,8 @@ today.
 In this project we access, parse, visualize and analyze the data from the U.S. Bureau of Labor Statistics, and use it to predict the inflation rate uing 
 [ARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.arima.model.ARIMA.html) and [Prophet](https://facebook.github.io/prophet/).
 
+The stationarity checks and detrending etc. are in the jupyter notebook accesible from the Github [repository](https://github.com/RaminVali/Time_Series_Project).
+
 ## Getting or Refreshing the Data
 """
 
